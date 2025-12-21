@@ -1,10 +1,8 @@
-# Fract-ol 🌀
-
 A fractal visualization program built with MiniLibX, featuring multithreaded rendering for smooth performance.
 
 ---
 
-## 🚀 How to Build & Run
+## How to Build & Run
 
 ```bash
 # Build the bonus version (recommended)
