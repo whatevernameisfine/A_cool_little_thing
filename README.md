@@ -44,14 +44,8 @@ A variation where absolute values are applied: $z_{n+1} = (|Re(z_n)| + i|Im(z_n)
 
 ## Screenshots
 
-<<<<<<< HEAD
-![Fractol:3](Screenshots/mandelbrot.png)
-![Fractol:3](Screenshots/julia.png)
-![Fractol:3](Screenshots/burning_ship.png)
-=======
-<img src="Screenshots/Mandelbrot.png" width="250"> <img src="Screenshots/julia.png" width="250"> <img src="Screenshots/Burning_ship.png" width="250">
+<img src="Screenshots/mandelbrot.png" width="250"> <img src="Screenshots/julia.png" width="250"> <img src="Screenshots/burning_ship.png" width="250">
 
->>>>>>> refs/remotes/origin/main
 ---
 ## 🎨 Color Schemes
 
