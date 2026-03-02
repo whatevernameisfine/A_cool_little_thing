@@ -44,7 +44,7 @@ A variation where absolute values are applied: $z_{n+1} = (|Re(z_n)| + i|Im(z_n)
 
 ## Screenshots
 
-![Fractol:3](Screenshots/Mandelbrot.png)
+![Fractol:3](Screenshots/Mandelbrot.png,julia.png)
 
 ---
 ## 🎨 Color Schemes
