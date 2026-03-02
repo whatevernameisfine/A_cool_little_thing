@@ -42,6 +42,11 @@ A variation where absolute values are applied: $z_{n+1} = (|Re(z_n)| + i|Im(z_n)
 
 ---
 
+## Screenshots
+
+![Fractol:3](Screenshots/Mandelbrot.png)
+
+---
 ## 🎨 Color Schemes
 
 Press `C` to cycle through **6 different color schemes**, each using different mathematical mappings of iteration count to RGB values.
